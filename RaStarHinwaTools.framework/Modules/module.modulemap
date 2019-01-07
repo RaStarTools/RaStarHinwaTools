@@ -1,0 +1,6 @@
+framework module RaStarHinwaTools {
+  umbrella header "RaStarHinwaTools.h"
+
+  export *
+  module * { export * }
+}
